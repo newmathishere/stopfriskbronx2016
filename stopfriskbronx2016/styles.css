@@ -1,0 +1,57 @@
+body {
+
+	margin: 0;
+	padding: 0;
+max-width: 1300px;
+color: #1A4B2E;	
+font-family: 'Muli', sans-serif;
+}
+
+h1 {
+	font-size: 3.5em;
+	font-family: Heebo, sans-serif;
+	color: #1A4B2E;
+}
+
+h2 {font-size: 2.0em;}
+
+h3 {font-size: 1.0em;}
+
+blockquote { font-family: 'Fira Sans', sans-serif;
+			color: #1A4B2E;
+			font-size: 1.5em;
+
+}
+
+header, section, figure {
+
+	margin: auto;
+	padding: 0 7%;
+}
+
+figcaption {
+
+	margin-left: 0px;
+	font-size: 0.7em;
+}
+
+p {max-width: 850px}
+
+img {max-width: 100%}
+
+
+
+.bigimage {max-width: 100%
+height: auto; 
+width: 800px;
+padding: 0;}
+
+.graphic {
+	display: inline-block;
+	width: 290px;
+	height: 240px;
+	padding: 3%;
+}
+
+
+}
